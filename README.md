@@ -1,0 +1,2 @@
+# estatistica-classica
+Classical statistics.
